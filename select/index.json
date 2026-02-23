@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "LaRiLaRu",
+  "base_artist": "BPM15Q",
+  "createdAt": "2026-02-23T14:33:49.974833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LaRiLaRu",
+      "artist": "BPM15Q",
+      "has_synced": true,
+      "path": "select/01_LaRiLaRu_BPM15Q.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LaRiLaRu (Instrumental)",
+      "artist": "BPM15Q",
+      "has_synced": true,
+      "path": "select/02_LaRiLaRu_(Instrumental)_BPM15Q.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LaRiLaRu",
+      "artist": "BPM15Q",
+      "has_synced": false,
+      "path": "select/pl_01_LaRiLaRu_BPM15Q.txt"
+    }
+  ]
+}
